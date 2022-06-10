@@ -2,7 +2,7 @@
 How Do We Prove that the Earth is Round?
 
 # Contributors:
-1. Kyungjin Cho
+1. KYUNGJIN CHO
 2. YIZHE GE
 3. HAOYANG YAN
 4. JIANZHUO LIU
