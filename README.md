@@ -2,10 +2,11 @@
 How Do We Prove that the Earth is Round?
 
 # Contributors:
-1. YIZHE GE
-2. HAOYANG YAN
-3. JIANZHUO LIU
-4. SUNGRIM LEE
+1. Kyungjin Cho
+2. YIZHE GE
+3. HAOYANG YAN
+4. JIANZHUO LIU
+5. SUNGRIM LEE
 
 # Refined question to prove that the earth is round:
 If the earth is round, are we able to predict the sunrise time of different cities?
